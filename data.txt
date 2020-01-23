@@ -1,0 +1,1 @@
+[{"nom": "coco", "numero": "l'asticot", "adresse": "chez lui"}, {"nom": "a", "numero": "a", "adresse": "a"}, {"nom": "roger", "numero": "0516545", "adresse": "ok"}, {"nom": "ok", "numero": "rr", "adresse": "ff"}, {"nom": "bn", "numero": "ok", "adresse": "gg"}, {"nom": "", "numero": "", "adresse": ""}]
